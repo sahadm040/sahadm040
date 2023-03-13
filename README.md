@@ -31,7 +31,7 @@ I am into Web & App Development, Internet of Things. -->
 
 <p align="start">
   <a href="#!">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase,Postman" />
   </a>
 </p>
 
