@@ -39,7 +39,7 @@ I am into Web & App Development, Internet of Things. -->
 
 
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/sahad_m__/)
-[<img alt="facebook" src="https://img.shields.io/badge/facebook-%234267B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.facebook.com/sahad m/)
+[<img alt="facebook" src="https://img.shields.io/badge/facebook-%234267B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.facebook.com/sahad/)
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://twitter.com/AmeenarshadN)
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/ameen-arshad-nediya/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:sahdm040@gmail.com)
