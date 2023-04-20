@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Sahad+M+;Thank+you+for+stopping+by+%F0%9F%91%8B">
   </a>
 </h1>
-FRONT-END DEVELOPER (react js)
+FRONT-END DEVELOPER ( react js )
 <!-- ## react js developer -->
 <!-- # Let's Talk Numbers and Stats
 I am into Web & App Development, Internet of Things. -->
